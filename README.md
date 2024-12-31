@@ -5,7 +5,7 @@ A Simple Tool for Vu LMS Users  This extension helps Vu LMS (Virtual University 
 - Bypass Restrictions: Automatically bypasses lecture viewing systems on Vu LMS.
 - Copy Quiz: Helps students copy quiz answers in an easier way.
 - GDB Paste: Helps students paste their GDB answers automatically.
-- Student Pic: 
+- Student Picture, Name & ID: 
 - Easy Access: Integrates directly into your browser as a Chrome Extension.
   
 # Installation
