@@ -12,11 +12,13 @@ A Simple Tool for Vu LMS Users  This extension helps Vu LMS (Virtual University 
 https://github.com/SkillDevloper/Vu-LMS-Extension.git
 
 Steps to Install the Extension:
-1. Download the extension zip file from this repository.
+1. Download the extension zip file from this repository & unzip the zip file.
 2. Open Chrome and go to the Extensions page (chrome://extensions/).
 3. Enable Developer mode by toggling the switch at the top right.
 4. Click Load unpacked and select the extension file Or Just Drad Dand drop the file.
 - The extension will now be added to your Chrome browser and ready to use.
+  
+![Video To install Extention.](https://github.com/user-attachments/assets/f248395a-5281-40e1-addf-35de3a752af3)
 
 # Usage
 
